@@ -1,13 +1,7 @@
-# Welcome to Better Netdata Notifs
-A better notification engine for netdata.
+Please visit https://gitlab.com/o355/BetterNetdataNotifs for the active repository and code.
 
-# Why?
-I've always had netdata notifications on for my servers, but 99% of the time the notifications I get are useless and don't matter to me.
+## Why did you move to GitLab?
+I do not want to support GitHub after Microsoft acquired GitHub. I do not support publishing my work on a website owned by an extremely anti-user, pro-proprietary and pro-surveillance company.
 
-So, I decided why not make a script to get important notifications on Slack about machines from Netdata, and allow easy customization of a variety of alerts.
-
-# Timeline
-The timeline of this project is as follows:
-* until mid-2018: Experimental phase (testing Slack & Netdata API)
-* until early 2019: Development phase - Add in all the usual triggers and notifications
-* maybe late 2019: Main development done, MAYBE add in custom triggers
+## Why delete your code?
+I do not want my code published on this site anymore, but I do realize Git history exists.
